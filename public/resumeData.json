@@ -1,0 +1,105 @@
+{
+  "main": {
+    "name": "Jessica Chai",
+    "year": "sophomore",
+    "college": "Cornell University",
+    "description": "I'm interested in web development and using the power of technology to bring ease and joy into the lives of others",
+    "image": "profilepic.jpg",
+    "bio": "My name is Jessica Chai, and welcome to my website! I am currently studying Computer Science and Business Administration at Cornell University. I was originally drawn to computer science by its power to create, and this website is my place to create and explore. Please feel free to reach out and chat with me!",
+    "contactmessage": "Here is where you should write your message to readers to have them get in contact with you.",
+    "email": "jlc497@cornell.edu",
+    "phone": "240-478-2078",
+    "address": {
+      "street": "Big Piney Way",
+      "city": "Potomac",
+      "state": "Maryland",
+      "zip": "20854"
+    },
+    "website": "http://www.timbakerdev.com",
+    "resumedownload": "",
+    "social": [
+      {
+        "name": "linkedin",
+        "url": "https://www.linkedin.com/in/jessica-chai-a892b41b2",
+        "className": "fa fa-linkedin"
+      },
+      {
+        "name": "github",
+        "url": "https://github.com/jessica0801",
+        "className": "fa fa-github"
+      }
+    ]
+  },
+  "resume": {
+    "skillmessage": "I have experience working on frontend and backend web development, and I am well versed in working with a team on projects.",
+    "education": [
+      {
+        "school": "Cornell University",
+        "degree": "Bachelor of Science in Computer Science",
+        "graduated": "May 2024",
+        "description": "Activities: Cornell Design & Tech Initiative, The Wardrobe, Women in Computing at Cornell, Chinese Student Association, Freshman Orientation Leader"
+      }
+    ],
+    "work": [
+      {
+        "company": "Cornell Design and Tech Initiative Project Team",
+        "title": "Website Developer ",
+        "years": "September 2021 - Present",
+        "description": "Worked with a team of designers, product managers, marketers, and other developers to create a platform for professors to algorithmically form diverse groups resulting in a more productive learning environment"
+      },
+      {
+        "company": "The Wardrobe",
+        "title": "Frontend Website Developer",
+        "years": "February 2021 - Present",
+        "description": "Developed Google OAuth component for the backend of The Wardrobe’s clothing rental website by using JavaScript and Google API resulting in a more streamlined user login process for over 15,000 undergraduate students"
+      }
+    ],
+    "skills": [
+      {
+        "name": "Git",
+        "level": "75%"
+      },
+      {
+        "name": "Java",
+        "level": "85%"
+      },
+      {
+        "name": "ReactJs",
+        "level": "70%"
+      },
+      {
+        "name": "JavaScript",
+        "level": "70%"
+      },
+      {
+        "name": "TypeScript",
+        "level": "60%"
+      }
+    ]
+  },
+  "portfolio": {
+    "projects": [
+      {
+        "title": "Zing Grouping Service",
+        "category": "group forming platform for Cornell professors",
+        "image": "zing.jpg",
+        "url": "https://github.com/cornell-dti/zing"
+      },
+      {
+        "title": "The Wardrobe Renting Website",
+        "category": "business clothes renting website",
+        "image": "wardrobe.jpg",
+        "url": "https://www.cornellwardrobe.org/"
+      },
+      {
+        "title": "Weather Web Service",
+        "category": "retrieves weather information for different locations",
+        "image": "weather-app.jpg",
+        "url": "https://jchai-weather-application.herokuapp.com"
+      }
+    ]
+  },
+  "testimonials": {
+    "testimonials": []
+  }
+}
